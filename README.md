@@ -68,3 +68,14 @@ Log Ingestion Validation
 
 <img src="https://imgur.com/VotI5T8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+Some KQL Command
+
+<img src="https://imgur.com/RaCNANU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/pH4i0Mj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/4G26nFt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/3Jyj19A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
